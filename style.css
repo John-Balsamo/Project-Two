@@ -88,3 +88,11 @@ ol, ul {
     list-style: circle;
     
 }
+.table
+{
+  background-color: #ffffff;
+  color: #000000;
+  text-align: center;
+  font-family: 'verdana', serif;
+  border: 3px groove #edeeef;
+}
